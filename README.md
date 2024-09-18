@@ -1,4 +1,7 @@
 # EDA-Covid-19
+
+You can view live demo here at: https://www.kaggle.com/code/samruddhi4040/eda-covid-19
+
 I performed EDA on Covid 19 reports.                   
 The dataset contains rows such as :Province/State, Country/Region, Lat, Long, Date, Confirmed, Deaths, Recovered, Active, WHO Region.                             
 The data was checked out on for:                     
